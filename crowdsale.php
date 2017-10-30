@@ -8,7 +8,7 @@
 
         <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-        <title>Pareto</title>
+        <title>P A R E T O . Presale</title>
 
         <meta name="description" content="">
 
@@ -21,9 +21,6 @@
         <link rel="manifest" href="manifest.json">
         <link rel="mask-icon" href="safari-pinned-tab.svg" color="#5bbad5">
         <meta name="theme-color" content="#ffffff">
-
-
-        <!-- Place favicon.ico in the root directory -->
 
         <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,700,700i" rel="stylesheet">
 
@@ -54,7 +51,7 @@
 
             <a href="https://pareto.network" target="_blank" class="header-link slack-link"><span>Home</span></a>
             <div>
-                <a href="https://www.pareto.network/download/Pareto-Technical-White-Paper.pdf" class="header-link button telegram-link"><span>Read our Whitepaper</span></a>
+                <a href="https://www.pareto.network/download/Pareto-Technical-White-Paper.pdf" class="header-link button telegram-link" style="font-family: 'header'; font-size: 16px;"><span>Whitepaper</span></a>
                 <a href="https://t.me/paretonetworkofficial" target="_blank" class="header-link telegram-link"><i class="fa fa-paper-plane" aria-hidden="true"></i> <span>Telegram</span></a>
             </div>
 

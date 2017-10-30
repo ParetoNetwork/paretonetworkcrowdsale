@@ -20,8 +20,6 @@
         <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,700,700i" rel="stylesheet">
         <link rel="stylesheet" href="css/general.css">
 
-
-
     </head>
 
     <body>

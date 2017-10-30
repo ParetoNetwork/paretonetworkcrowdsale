@@ -6630,6 +6630,10 @@ text-decoration: none;
   font-weight: 300;
 }
 
+.font-header { 
+  font-family: 'header'; 
+}
+
 @media (max-width: 1200px) {
   .footer-apps h4 {
     font-size: 28px;
