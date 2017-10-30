@@ -1,0 +1,188 @@
+.footer
+	padding: 100px 0 70px
+	text-align: center
+	
+	@media (max-width: 1200px)
+		padding: 60px 0 30px
+	
+	&-apps
+		margin-bottom: 30px
+		
+		@media (max-width: 1200px)
+			margin-bottom: 60px 
+			
+		@media (max-width: 767px)
+			margin-bottom: 40px 
+		 
+		h4
+			color: $blue
+			font-size: 32px
+			font-weight: 700  
+			margin-bottom: 35px 
+			font-family: 'body' 
+			font-weight: 300 
+			
+			@media (max-width: 1200px)
+				font-size: 28px
+				margin-bottom: 30px  
+				
+			@media (max-width: 767px)
+				font-size: 24px
+				margin-bottom: 15px  
+			
+		&__row
+			display: flex
+			align-items: center
+			justify-content: center
+			flex-wrap: wrap
+			
+
+	&-form
+		margin-bottom: 70px 
+		.sign-up-form
+			padding-left: 0
+			text-align: center
+			font-family: 'header' 
+			 
+			
+			&__title
+				color: $blue
+				font-size: 24px
+			
+			.form-group
+				margin: 0 auto
+
+		
+	.copyright
+		font-size: 15px 
+		
+	&-partners
+		a
+			margin: 0 30px;
+			
+			@media (max-width: 1200px)
+				margin: 0 20px
+				
+				img
+					max-width: 120px 
+					
+			@media (max-width: 767px)
+				margin: 0 15px
+				
+				img
+					max-width: 100px 
+					
+			@media (max-width: 575px)
+				margin: 8px
+				
+				img
+					max-width: 80px 
+				
+			
+			&:first-child
+				margin-left: 0
+			&:last-child
+				margin-right: 0 
+
+
+
+.app-icon
+	width: 52px
+	height: 52px
+	border-radius: 50% 
+	display: flex
+	align-items: center
+	justify-content: center
+	margin: 0 17px
+	transition: all 0.3s ease
+	position: relative
+	
+	@media (max-width: 1200px)
+		width: 46px
+		height: 46px
+		margin: 0 10px
+		
+	@media (max-width: 767px)
+		margin: 8px
+	
+	&:after
+		content: ''
+		width: 100%
+		height: 100%
+		border-radius: 50%
+		position: absolute
+		top: 50%
+		left: 50%
+		transform: translate(-50%, -50%) 
+		opacity: 0
+		transition: all 0.3s ease
+		z-index: -1 
+
+	
+	&:hover:after
+		width: 120%
+		height: 120%
+		opacity: 0.25
+	
+	@media (min-width: 768px)
+		&:first-child
+			margin-left: 0
+		&:last-child
+			margin-right: 0 
+	
+	.fa
+		color: #fff
+		font-size: 22px 
+		
+	&.telegram
+		background-color: #5BA2CC
+		&:after
+			background-color: #5BA2CC
+	&.slack
+		background-color: #B35758
+		&:after
+			background-color: #B35758
+	&.facebook
+		background-color: #6195D1
+		&:after
+			background-color: #6195D1
+	&.twitter
+		background-color: #5495CC
+		&:after
+			background-color: #5495CC
+	&.wechat
+		background-color: #71B671
+		&:after
+			background-color: #71B671
+	&.linkedin
+		background-color: #5F92CB
+		&:after
+			background-color: #5F92CB
+	&.git
+		background-color: #9185BF
+		&:after
+			background-color: #9185BF
+	&.youtube
+		background-color: #B35758
+		&:after
+			background-color: #B35758
+	&.medium
+		background-color: #71B68F
+		&:after
+			background-color: #71B68F
+	&.talk
+		background-color: #FFA941
+		&:after
+			background-color: #FFA941
+		.fa
+			position: relative
+			font-size: 24px 
+		.fa:after
+			content: 'TALK'
+			font-size: 8px 
+			font-weight: 700 
+			color: #FFA941
+			position: absolute
+			left: 50%
+			top: 9px
+			transform: translateX(-50%)
