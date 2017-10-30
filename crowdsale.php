@@ -157,7 +157,7 @@ digital currency marketplace.</p>
 
                             <div class="info-block__bottom">
 
-                                <p>MINIMUM: 5 ETH </p>
+                                <p>MINIMUM: <b>5 ETH</b></p>
 
                                 <p>28% BONUS</p>
 
