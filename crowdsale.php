@@ -159,7 +159,7 @@ digital currency marketplace.</p>
 
                                 <p>MINIMUM: 5 ETH </p>
 
-                                <p>UP TO 38% BONUS</p>
+                                <p>28% BONUS</p>
 
                             </div>
 
@@ -207,7 +207,7 @@ WE RECOMMEND USING THE FOLLOWING WALLETS OR PLATFORMS:</p>
 
                                 <li>1. MYETHERWALLET.COM <a href="https://myetherwallet.com" target="_blank">CLICK TO VIEW</a></li>
 
-                                <li>2. METAMASK.COM <a href="https://metamask.com" target="_blank">CLICK TO VIEW</a></li>
+                                <li>2. METAMASK.IO <a href="https://metamask.io" target="_blank">CLICK TO VIEW</a></li>
 
                             </ul>
 
