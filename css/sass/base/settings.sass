@@ -1,0 +1,132 @@
+html,
+body
+	height: 100%
+	
+body 
+	font-family: $h
+	font-weight: 300 
+	font-size: 14px  
+	color: $text
+	letter-spacing: -0.015em
+	
+.wrapper
+	width: 1200px
+	padding: 0 15px
+	margin: 0 auto
+	max-width: 100%	
+	&--short
+		width: 860px 
+	@media (max-width: 1200px)
+		width: 960px
+	
+	@media (max-width: 991px)
+		width: 720px
+		
+	@media (max-width: 767px)
+		width: 100%
+		max-width: 540px
+		
++placeholder
+	opacity: 1
+	
+
+.section
+	padding: 90px 0
+	position: relative
+	&--bg
+		background-color: #f4f6f7 
+	&--bordered
+		border-top: 1px solid #DCDFE3 
+		border-bottom: 1px solid #DCDFE3 
+	
+	@media (max-width: 767px)
+		padding: 60px 0
+		
+	&.no-pt
+		padding-top: 0
+	
+	&.no-pb
+		padding-bottom: 0 
+		
+
+	&-title
+		color: $dark-blue
+		text-align: center
+		margin-bottom: 35px 
+		
+		@media (max-width: 767px)
+			margin-bottom: 30px 
+		
+		.pre-title
+			font-size: 24px
+			text-transform: uppercase  
+			
+			@media (max-width: 767px)
+				font-size: 20px 
+			
+			@media (max-width: 575px)
+				font-size: 18px
+				
+
+		.title
+			font-size: 64px 
+			
+			@media (max-width: 991px)
+				font-size: 54px 
+				
+			@media (max-width: 767px)
+				font-size: 48px 
+				
+			@media (max-width: 575px)
+				font-size: 36px 
+			
+
+.wide-title
+	width: 1300px
+	padding: 0 15px
+	max-width: 100% 
+	text-align: left
+	margin-bottom: 50px 
+	margin-left: auto 
+	margin-right: auto 
+	
+	@media (max-width: 1200px)
+		width: 960px
+		text-align: center
+	
+	@media (max-width: 991px)
+		width: 720px
+		
+	@media (max-width: 767px)
+		width: 100%
+		max-width: 540px
+	
+	h2
+		font-size: 31px 
+		
+		@media (max-width: 991px)
+			font-size: 28px
+		
+		@media (max-width: 767px)
+			font-size: 26px 
+		
+		@media (max-width: 575px)
+			font-size: 24px 
+		
+	.subtitle
+		font-size: 18px
+		margin-top: 10px
+		font-weight: 700   
+		
+
+*
+    -webkit-box-sizing: border-box
+    box-sizing: border-box
+
+#particles-js
+	position: absolute
+	left: 0
+	top: 0
+	width: 100%
+	height: 100%  
+	padding: 220px 0 100px 
