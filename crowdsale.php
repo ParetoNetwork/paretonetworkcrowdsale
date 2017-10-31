@@ -785,26 +785,7 @@ WE RECOMMEND USING THE FOLLOWING WALLETS OR PLATFORMS:</p>
 
 
 
-                    <div class="footer-form">
-
-                        <form action="" class="sign-up-form">
-
-                            <p class="sign-up-form__title">Sign up for our Whitelist & Prototype</p>
-
-
-
-                            <div class="form-group">
-
-                                <input type="text" name="email" required="" placeholder="Email address">
-
-                                <button class="submit-button">Go</button>
-
-                            </div>
-
-                        </form>
-
-                    </div>
-
+                    
                 </div> <!-- end footer-top -->
 
 
