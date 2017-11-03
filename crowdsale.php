@@ -149,7 +149,7 @@ digital currency marketplace.</p>
 
                             <div class="info-block__bottom">
 
-                                <p>28% BONUS</p>
+                                <p>28% DISCOUNT</p>
 
                             </div>
 
