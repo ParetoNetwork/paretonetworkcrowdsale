@@ -139,15 +139,24 @@ digital currency marketplace.</p>
 
                 <div class="row stretch-xs row-padding">
 
-                    <div class="col-md-6 col-xs-12">
+                     <div class="col-md-6 col-xs-12">
 
                         <div class="info-block">
 
                             <strong>PRESALE PRICE</strong>
 
-                            <p><i>1 ETH = 1700 PXT</i></p>
+                            <p><i>1 ETH = 1,700 PXT</i></p>
+
+                            <div class="info-block__bottom">
+                                <p>Crowdsale price</p>
+                                <br/>
+                                <p>1 ETH = 1,224 PXT</p>
+
+                            </div>
 
                         </div>
+
+                        
 
                     </div>
 
@@ -155,13 +164,14 @@ digital currency marketplace.</p>
 
                         <div class="info-block">
 
-                            <strong>BONUS over Public Sale</strong>
+                            <strong>CURRENT BONUS</strong>
 
                             <p class="info-block__big">39% BONUS</p>
 
                         </div>
 
                     </div>
+
 
                     <div class="col-md-12 col-xs-12">
 
