@@ -159,7 +159,7 @@
 
         <script>
             if ( localStorage.getItem("acception") == 'true' ) {
-                location.href = 'crowdsale.php';
+                location.href = 'crowdsale.php#current-stage';
             } else {
                 $.fancybox.open([
                     {
