@@ -135,6 +135,8 @@ digital currency marketplace.</p>
 
                     <h2 class="text-gradient">PRESALE</h2>
 
+                    <p>NOTE: Tokens will be distributed <b>after</b> the upcoming crowdsale, not during presale</p>
+
                 </div>
 
                 <div class="row stretch-xs row-padding">
@@ -230,6 +232,11 @@ WE RECOMMEND USING THE FOLLOWING WALLETS OR PLATFORMS:</p>
 
                         </div>
 
+
+                    </div>
+
+                    <div class="col-md-12 col-xs-12">
+                        <p class="centered-text">NOTE: Tokens will be distributed <b>after</b> the upcoming crowdsale, not during presale</p>
                     </div>
 
                 </div>
