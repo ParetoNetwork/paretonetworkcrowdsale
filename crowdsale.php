@@ -792,13 +792,13 @@ WE RECOMMEND USING THE FOLLOWING WALLETS OR PLATFORMS:</p>
 
                         <div class="footer-apps__row">
 
-                            <a href="https://t.me/paretonetworkofficial" target="_blank" class="app-icon telegram"><i class="fa fa-paper-plane" aria-hidden="true"></i></a>
-
-                            <a href="https://www.facebook.com/paretonetworkofficial" target="_blank" class="app-icon facebook"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-
-                            <a href="https://www.linkedin.com/company/11252108/" target="_blank" class="app-icon linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-
-                            <a href="https://blog.pareto.network/" target="_blank" class="app-icon medium"><i class="fa fa-medium" aria-hidden="true"></i></a>
+                            <a href="https://t.me/paretonetworkofficial" class="app-icon telegram" target="_blank"><i class="fa fa-paper-plane" aria-hidden="true"></i></a>
+                            <a href="https://fb.me/paretonetworkofficial" class="app-icon facebook" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                            <a href="https://www.linkedin.com/company/11252108/" class="app-icon linkedin" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                            <a href="https://blog.pareto.network/" class="app-icon medium" target="_blank"><i class="fa fa-medium" aria-hidden="true"></i></a>
+                            <a href="https://twitter.com/ParetoNetwork" class="app-icon twitter" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                            <a href="https://www.youtube.com/channel/UCWbAwsAEmNksqhhDlgBaSQA" class="app-icon youtube" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+                            <a href="https://github.com/ParetoNetwork" class="app-icon git" target="_blank"><i class="fa fa-github" aria-hidden="true"></i></a>
 
                         </div>
 
