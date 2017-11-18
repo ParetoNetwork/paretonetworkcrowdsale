@@ -52,16 +52,16 @@
         <div id="terms-of-contribution" class="fncb-hide zoom-anim-dialog popup">
             <div class="popup__header">
                 <h3>PARETO NETWORK TOKEN (PXT)</h3>
-                <p>PLEASE READ THE PURCHASE AGREEMENT, AND ACCEPT THE TERMS IN ORDER TO PROCEED.</p>
+                <p>PLEASE READ THE PURCHASE AGREEMENT, AND ACCEPT THE SAFT TERMS IN ORDER TO PROCEED.</p>
             </div>
             <div class="popup__body">
                 <div class="content-scroll">
-                    <h4>Agreement for Future Delivery of Tokens
+                    <h4>SAFT: Simple Agreement for Future Delivery of Tokens
 </h4>
                     <p>Last Updated: 30 October, 2017</p>
                     
                     
-<p><strong>Agreement for Future Delivery of Tokens</strong></p>
+<p><strong>Simple Agreement for Future Delivery of Tokens</strong></p>
 <p>This Agreement for Future Delivery of Tokens (this &ldquo;<strong><em>Agreement</em></strong>&rdquo;), memorializes that in exchange for the payment by the undersigned purchaser (the &ldquo;<strong><em>Purchaser</em></strong>&rdquo;) of the Total Purchase Amount set out above on or about [October 30, 2017] (the &ldquo;<strong><em>Effective Date</em></strong>&rdquo;), Pareto Network, Ltd., a British Virgin Islands limited company with registration number BC1951396 (the &ldquo;<strong><em>Company</em></strong>&rdquo;), hereby agrees, upon and subject to a Network Launch, to transfer to the Purchaser the number of Pareto Tokens (as defined below) set forth above (the &ldquo;<strong><em>Tokens</em></strong>&rdquo;), subject to the terms set forth below.</p>
 <p><strong><span>Delivery of Tokens; Termination of Forward Delivery Obligation</span></strong></p>
 <p><strong>1. </strong><span><a name="_Ref493871302" id="_Ref493871302"><u>Delivery of the Tokens</u>. If the conditions precedent set forth in Section&nbsp;</a>1(b) are satisfied and there is a Network Launch (as defined below), in each case before the expiration or termination of this Agreement, the Company will, within 30 days after such Network Launch, transfer to the Purchaser the Tokens, by delivery to the network address specified by the Purchaser pursuant to Section&nbsp;1(b)(ii), and otherwise in accordance with this Agreement.</span>
