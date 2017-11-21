@@ -434,7 +434,7 @@ WE RECOMMEND USING THE FOLLOWING WALLETS OR PLATFORMS:</p>
 
                 <div class="timeline">
 
-                    <div class="line active-4"></div>
+                    <div class="line active-6"></div>
 
 
 
@@ -502,8 +502,6 @@ WE RECOMMEND USING THE FOLLOWING WALLETS OR PLATFORMS:</p>
 
                             <div class="timeline-step active">
 
-                                <span class="active-pointer">We are here</span>
-
                                 <span class="title">Private sale</span>
 
                                 <p class="phase">Oct 2017</p>
@@ -516,7 +514,7 @@ WE RECOMMEND USING THE FOLLOWING WALLETS OR PLATFORMS:</p>
 
                         <div class="step-box step-box-5">
 
-                            <div class="timeline-step">
+                            <div class="timeline-step active">
 
                                 <span class="title">Alpha / prototype / mvp</span>
 
@@ -530,7 +528,9 @@ WE RECOMMEND USING THE FOLLOWING WALLETS OR PLATFORMS:</p>
 
                         <div class="step-box step-box-6">
 
-                            <div class="timeline-step">
+                            <div class="timeline-step active">
+
+                                <span class="active-pointer">We are here</span>
 
                                 <span class="title">Public sale</span>
 
