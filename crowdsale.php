@@ -169,14 +169,8 @@ digital currency marketplace.</p>
 
                             <strong>PRESALE PRICE</strong>
 
-                            <p><i>1 ETH = 1,700 PXT</i></p>
+                            <p><i>1 ETH = 5,550 PXT</i></p>
 
-                            <div class="info-block__bottom">
-                                <p>Crowdsale price</p>
-                                <br/>
-                                <p>1 ETH = 1,224 PXT</p>
-
-                            </div>
 
                         </div>
 
@@ -188,9 +182,9 @@ digital currency marketplace.</p>
 
                         <div class="info-block">
 
-                            <strong>CURRENT BONUS</strong>
+                            <strong>BONUSES</strong>
 
-                            <p class="info-block__big">39% BONUS</p>
+                            <p>First 20% of purchasers get 10% more tokens (1 ETH = 6,100 PXT)</p>
 
                         </div>
 
@@ -201,9 +195,9 @@ digital currency marketplace.</p>
 
                         <div class="info-block centered info-block--timer">
 
-                            <p>Presale ends at 9am PST on the 30th of November 2017</p>
+                            <p>Presale ends at 9am PST on the 15th of January 2018</p>
 
-                            <div class="timer" data-end="2017-11-30"></div>
+                            <div class="timer" data-end="2018-01-15"></div>
 
                         </div>
 
@@ -319,7 +313,7 @@ WE RECOMMEND USING THE FOLLOWING WALLETS OR PLATFORMS:</p>
 
                                     <td>Hard Cap:</td>
 
-                                    <td>$32,000,000</td>
+                                    <td>25,000 ETH or approx. $12,000,000</td>
 
                                 </tr>
 
