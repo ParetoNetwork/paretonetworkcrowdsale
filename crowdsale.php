@@ -45,10 +45,11 @@
         <!-- End Google Tag Manager -->
 
         <script>
-            if ( localStorage.getItem("acception") != 'true' ) {
+            /*if ( localStorage.getItem("acception") != 'true' ) {
                 location.href = 'index.php';
             }
-            console.log( localStorage.getItem("acception") );
+            console.log( localStorage.getItem("acception") );*/
+            location.href = 'https://docs.google.com/forms/d/e/1FAIpQLSdF_g8EvhKNisQLeuO5rbSSAzWqpWImHwmhX7ss2guXqfvoKg/viewform?usp=sf_link';
         </script>
 
     </head>
