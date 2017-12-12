@@ -183,7 +183,8 @@
 
         <script>
             if ( localStorage.getItem("acception") == 'true' ) {
-                location.href = 'crowdsale.php#current-stage';
+                //location.href = 'crowdsale.php#current-stage';
+                location.href = 'https://docs.google.com/forms/d/e/1FAIpQLSdF_g8EvhKNisQLeuO5rbSSAzWqpWImHwmhX7ss2guXqfvoKg/viewform?usp=sf_link';
             } else {
                 $.fancybox.open([
                     {
