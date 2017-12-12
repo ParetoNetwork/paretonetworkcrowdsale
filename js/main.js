@@ -291,7 +291,8 @@ jQuery(document).ready(function($) {
 
         if ( accepted ) {
             $('#terms-of-contribution .green-button').removeClass('disabled');
-            $('#terms-of-contribution .green-button').attr('href', 'crowdsale.php');
+            //$('#terms-of-contribution .green-button').attr('href', 'crowdsale.php');
+            $('#terms-of-contribution .green-button').attr('href', 'https://docs.google.com/forms/d/e/1FAIpQLSdF_g8EvhKNisQLeuO5rbSSAzWqpWImHwmhX7ss2guXqfvoKg/viewform?usp=sf_link');
             localStorage.setItem("acception", true);
         } else {
             $('#terms-of-contribution .green-button').addClass('disabled');
