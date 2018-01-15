@@ -153,23 +153,18 @@ header('Pragma: no-cache'); ?>
 <p><span>EACH PARTY HEREBY WAIVES ITS RIGHTS TO A JURY TRIAL OF ANY CLAIM OR CAUSE OF ACTION BASED UPON OR ARISING OUT OF THIS AGREEMENT OR THE SUBJECT MATTER HEREOF. THE SCOPE OF THIS WAIVER IS INTENDED TO BE ALL-ENCOMPASSING OF ANY AND ALL DISPUTES THAT MAY BE FILED IN ANY COURT AND THAT RELATE TO THE SUBJECT MATTER OF THIS TRANSACTION, INCLUDING, WITHOUT LIMITATION, CONTRACT CLAIMS, TORT CLAIMS (INCLUDING NEGLIGENCE), BREACH OF DUTY CLAIMS, AND ALL OTHER COMMON LAW AND STATUTORY CLAIMS. THIS SECTION HAS BEEN FULLY DISCUSSED BY EACH OF THE PARTIES HERETO AND THESE PROVISIONS WILL NOT BE SUBJECT TO ANY EXCEPTIONS. EACH PARTY HERETO HEREBY FURTHER REPRESENTS AND WARRANTS THAT SUCH PARTY HAS REVIEWED THIS WAIVER WITH ITS LEGAL COUNSEL, AND THAT SUCH PARTY KNOWINGLY AND VOLUNTARILY WAIVES ITS JURY TRIAL RIGHTS FOLLOWING CONSULTATION WITH LEGAL COUNSEL.</span></p>
                 </div>
 
-                <div class="checkboxes">
+                <!-- <div class="checkboxes">
                     <div class="column" style="width: 100%">
                         <input type="checkbox" name="cond-1" id="cond-1" autocomplete="off">
                         <label for="cond-1"><span style="font-size: 16px">I have read and agree to the Terms</span></label>
                     </div>
-
-                    <!--<div class="column">
-                        <input type="checkbox" name="cond-2" id="cond-2" autocomplete="off">
-                        <label for="cond-2"><span>Check here to confirm that you are NOT a citizen of or resident of the People's Republic of China or an entity formed under the laws of the People's Republic of China (each a "Chinese Person") nor are you purchasing COM Tokens or signing on behalf of a Chinese Person.</span></label>
-                    </div>-->
                 
-                </div>
+                </div> -->
             </div>
 
-            <div class="popup__footer">
+            <!-- <div class="popup__footer">
                 <a href="" class="green-button disabled">Continue</a>
-            </div>
+            </div> -->
         </div>
 
 
@@ -187,7 +182,7 @@ header('Pragma: no-cache'); ?>
 
 
         <script>
-            if ( localStorage.getItem("acception") == 'true' ) {
+            /*if ( localStorage.getItem("acception") == 'true' ) {
                 //location.href = 'crowdsale.php#current-stage';
                 location.href = 'https://docs.google.com/forms/d/e/1FAIpQLSd8vc9hczvLhXCcxMyHfI5fWYn60SyPy-b02qPCGJ6y5ud2cg/viewform?usp=sf_link';
             } else {
@@ -204,7 +199,21 @@ header('Pragma: no-cache'); ?>
                 ], {
                     loop : false
                 });    
-            }
+            }*/
+
+             $.fancybox.open([
+                    {
+                        src  : '#terms-of-contribution',
+                        type: 'inline',
+                        opts : {
+                            buttons : [],
+                            modal: true,
+                            touch : false,
+                        }
+                    }
+                ], {
+                    loop : false
+                });    
             
         </script>
         
