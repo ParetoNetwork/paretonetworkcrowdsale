@@ -184,7 +184,7 @@
         <script>
             if ( localStorage.getItem("acception") == 'true' ) {
                 //location.href = 'crowdsale.php#current-stage';
-                location.href = 'https://docs.google.com/forms/d/e/1FAIpQLSdF_g8EvhKNisQLeuO5rbSSAzWqpWImHwmhX7ss2guXqfvoKg/viewform?usp=sf_link';
+                location.href = 'https://docs.google.com/forms/d/e/1FAIpQLSd8vc9hczvLhXCcxMyHfI5fWYn60SyPy-b02qPCGJ6y5ud2cg/viewform?usp=sf_link';
             } else {
                 $.fancybox.open([
                     {
