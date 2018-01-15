@@ -61,7 +61,7 @@ header('Pragma: no-cache'); ?>
             </div>
             <div class="popup__body">
                 <div class="content-scroll">
-                    <h4>SAFT: Simple Agreement for Future Delivery of Tokens
+                    <h4>"SAFT: Simple Agreement for Future Delivery of Tokens"
 </h4>
                     <p>Last Updated: 30 October, 2017</p>
                     
